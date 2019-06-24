@@ -1,0 +1,38 @@
+body {
+  background-color: #999999;
+  color: #FFFFFF;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 600;
+  margin: 20px auto 40px;
+  text-align: center;
+}
+
+.heroes {
+  margin: 20px auto 0;
+  width: 50%;
+}
+
+.hero {
+  border: 1px solid #000000;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 60px;
+  margin: 0 auto 10px;
+  text-align: center;
+  width: 75%;
+}
+
+.reveal {
+  font-size: 18px;
+  margin: 40px auto 0;
+  text-align: center;
+  width: 25%;
+}
+
+.revealtitle {
+  font-size: 24px;
+  font-weight: 600;
+}
